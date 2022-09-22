@@ -2,8 +2,9 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        String token = "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";
-
+        //ghp_xBNi21tX7
+        //E6kNBudLdUgTavc
         System.out.println("Hello world!");
+        // RI1CFX0U2J5K
     }
 }
